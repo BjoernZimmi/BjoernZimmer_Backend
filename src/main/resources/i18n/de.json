@@ -1,0 +1,22 @@
+{
+    "BROWSER_INFORMATION": "Ihre aktuelle Browser Sprache ist:",
+    "CONTACT": "Kontakt",
+    "DATA_PROTECTION": "Datenschutz",
+    "IMPRINT": "Impressum",
+    "INFORMATION": "Informationen",
+    "LOGIN": "Login",
+    "LOGIN_TEXT_1": "In Arbeit, bald werden hier viele Informationen zum Login stehen. Bis dahin steht nur ein kleiner Text als Platzhalter.",
+    "RIGHTS": "Alle Rechte vorbehalten.",
+    "TEXT_BACKEND_1": "In Arbeit, bald werden hier viele Informationen zum Backend stehen. Bis dahin steht nur ein kleiner Text als Platzhalter.",
+    "TEXT_FRONTEND_1": "In Arbeit, bald werden hier viele Informationen zum Frontend stehen. Bis dahin steht nur ein kleiner Text als Platzhalter.",
+    "TEXT_STARTPAGE_1": "Auf meiner Webseite sehen Sie eine Applikation in der Aktuellen Angular Version.",
+    "TEXT_STARTPAGE_2": "Die aktuelle Version in dieser App ist: Angular",
+    "TITLE_BACKEND": "Backend",
+    "TITLE_FRONTEND": "Frontend",
+    "TITLE_STARTPAGE": "Hallo und herzlich willkommen",
+    "IMPRINT_NAME": "Name: Björn Zimmer",
+    "IMPRINT_TEXT_1": "Adresse",
+    "IMPRINT_TEXT_2": "Elmer Landstr. 8a",
+    "IMPRINT_TEXT_3": "36381 Schlüchtern",
+    "IMPRINT_TEXT_4": "Deutschland"
+}

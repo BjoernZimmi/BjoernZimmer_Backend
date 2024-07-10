@@ -1,0 +1,22 @@
+{
+    "BROWSER_INFORMATION": "Your current browser language is: ",
+    "CONTACT": "Contact",
+    "DATA_PROTECTION": "Privacy policy",
+    "IMPRINT": "Imprint",
+    "INFORMATION": "Information",
+    "LOGIN": "Login",
+    "LOGIN_TEXT_1": "In progress, soon there will be a lot of information about the Login here.",
+    "RIGHTS": "All rights reserved.",
+    "TEXT_BACKEND_1": "In progress, soon there will be a lot of information about the backend here.",
+    "TEXT_FRONTEND_1": "In progress, soon there will be a lot of information about the frontend here.",
+    "TEXT_STARTPAGE_1": "On my website you can see an application in the current Angular version.",
+    "TEXT_STARTPAGE_2": "The current version in this app is: Angular",
+    "TITLE_BACKEND": "Backend",
+    "TITLE_FRONTEND": "Frontend",
+    "TITLE_STARTPAGE": "Hello and welcome",
+    "IMPRINT_NAME": "Name: Björn Zimmer",
+    "IMPRINT_TEXT_1": "Address",
+    "IMPRINT_TEXT_2": "Elmer Landstr. 8a",
+    "IMPRINT_TEXT_3": "36381 Schlüchtern",
+    "IMPRINT_TEXT_4": "Germany"
+}    
